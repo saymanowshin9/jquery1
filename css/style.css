@@ -1,0 +1,78 @@
+
+/*qus/ans*/
+.qus{
+	background-color: red;
+	font-size: 30px;
+	color: white;
+	padding: 20px;
+	cursor: pointer;
+}
+.ans{
+	background-color: green;
+	font-size: 20px;
+	color: white;
+	padding: 20px;
+	display: none;
+}
+/*delay*/
+.c_rap {
+	overflow: hidden;
+}
+.red {
+	width: 60px;
+	height: 60px;
+	background-color: red;
+	float: left;
+}
+.blue {
+	width: 60px;
+	height: 60px;
+	background-color: blue;
+	float: left;
+	margin-left: 10px;
+}
+/*height*/
+.h_div1{
+	overflow: hidden;
+}
+.h_div {
+	background-color: blue;
+	cursor: pointer;
+	width: 70px;
+	height: 70px;
+	float: left;
+	margin: 5px;
+}
+#p_css{
+	background-color: yellowgreen;
+}
+#width_h1 {
+	width: 200px;
+}
+
+
+.fadein {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	display: none;
+
+}
+.fadeout {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+
+}
+.fadet {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+
+}
+.fadeto {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+
+}
